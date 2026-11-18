@@ -1,1 +1,1 @@
-# Hello from Branch B
+# Hello from Branch A and B - Conflict Resolved
