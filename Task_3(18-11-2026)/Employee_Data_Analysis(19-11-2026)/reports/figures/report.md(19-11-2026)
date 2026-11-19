@@ -1,0 +1,19 @@
+# Employee salary Analysis
+
+Problem: To understand why salary is different for employees in the company.
+
+Data: Employee data with 474 employees. columns used: salary, starting salary, education,
+experience, gender.
+
+3 Key Insights:
+1. Most employees earn between 22000 and 33000. Median salary is around 27000.
+2. Salary increases with education. After 16 years of education, salary jumps from 32000 to 44000.
+3. There is a gender gap. Male median salary is 32000, female median salary is 24000.
+
+2 Recommendations:
+1. Review female employee salaries and give equal pay for equal work.
+2. Support education and training, and give promotion after completing degree.
+
+Limitations:
+-> Job title and department are not in the data. With that we can explain better.
+-> Salary is clipped at 55000, so high salaries are not exact.
